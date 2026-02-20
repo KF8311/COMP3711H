@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.7)  20 FEB 2026 18:53
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.9.7)  21 FEB 2026 00:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/lambo/HKUST/COMP3711H/homeworks/hw1/hw1
-(c:/Users/lambo/HKUST/COMP3711H/homeworks/hw1/hw1.tex
+**hw1
+(./hw1.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
 (c:/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -1119,10 +1119,86 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 178.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 176--189
+
+ []
+
+
 
 File: ../img/logo-hkust.png Graphic file (type bmp)
 <../img/logo-hkust.png>
-[1] 
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 219--222
+
+ []
+
+
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[2]
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[3]
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 262--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+
+ []
+
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 274.
+(c:/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
+
+ []
+
+
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 310--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--319
+
+ []
+
+
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 332--341
+
+ []
+
+
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 353--365
+
+ []
+
+
+
+File: ../img/logo-hkust.png Graphic file (type bmp)
+<../img/logo-hkust.png>
+[8] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./hw1.aux)
  ***********
@@ -1133,12 +1209,12 @@ Package rerunfilecheck Info: File `hw1.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 30309 strings out of 468441
- 588082 string characters out of 5449221
- 1125839 words of memory out of 5000000
- 58259 multiletter control sequences out of 15000+600000
- 630076 words of font info for 73 fonts, out of 8000000 for 9000
+ 30344 strings out of 468441
+ 588814 string characters out of 5449221
+ 1136837 words of memory out of 5000000
+ 58291 multiletter control sequences out of 15000+600000
+ 633066 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 104i,12n,109p,581b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 104i,12n,109p,536b,402s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hw1.pdf (2 pages).
+Output written on hw1.pdf (9 pages).
